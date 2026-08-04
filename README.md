@@ -2,7 +2,7 @@ Working through *The Elements of Computing Systems* — building a computer
 from NAND gates up through a Jack compiler and OS.
 
 ## Progress
-- [ ] 01 Boolean Logic
+- [x] 01 Boolean Logic
 - [ ] 02 Boolean Arithmetic
 - [ ] 03 Sequential Logic
 - [ ] 04 Machine Language
