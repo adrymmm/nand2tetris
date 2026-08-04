@@ -16,5 +16,4 @@ from NAND gates up through a Jack compiler and OS.
 - [ ] 12 OS
 
 ## Tools
-Official simulators live in `tools/` (gitignored — download from nand2tetris.org).
-EOF
+Online IDE is used available on https://www.nand2tetris.org/software
