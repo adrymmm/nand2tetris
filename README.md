@@ -3,7 +3,7 @@ from NAND gates up through a Jack compiler and OS.
 
 ## Progress
 - [x] 01 Boolean Logic
-- [ ] 02 Boolean Arithmetic
+- [x] 02 Boolean Arithmetic
 - [ ] 03 Sequential Logic
 - [ ] 04 Machine Language
 - [ ] 05 Computer Architecture
