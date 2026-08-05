@@ -16,4 +16,4 @@ from NAND gates up through a Jack compiler and OS.
 - [ ] 12 OS
 
 ## Tools
-Online IDE is used available on https://www.nand2tetris.org/software
+Online IDE used available on: https://www.nand2tetris.org/software
